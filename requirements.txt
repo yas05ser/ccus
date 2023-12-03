@@ -1,6 +1,5 @@
 fastapi
 pydantic
-sklearn
 pandas
 Pillow==10.1.0
 platformdirs==4.0.0
